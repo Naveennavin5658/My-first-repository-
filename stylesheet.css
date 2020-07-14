@@ -1,0 +1,47 @@
+body{
+    background-color: whitesmoke;
+    
+}
+.tbody{
+    width: 400px;
+    height: 300px;
+    margin: 0px auto;
+    background-color: whitesmoke;
+    box-shadow:3px  3px  5px  2px black;
+    display: block;
+}
+#uname{
+    border-radius: 20px;
+    display: inline;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 10px;
+    border-color: greenyellow;
+    height: 50px;
+}
+#password{
+    border-radius: 20px;
+    display: inline;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 30px;
+    border-color: cornflowerblue;
+    height: 50px;
+}
+button{
+    border-radius: 5px;
+    background-color: crimson;
+    display: block;
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    border-color: hotpink;
+}
+.Heading{
+    text-align: center;
+    color: blue;
+    margin-top: 100px;
+    padding-top: 20px;
+    text-shadow: 3px 2px 2px blue;
+
+}
